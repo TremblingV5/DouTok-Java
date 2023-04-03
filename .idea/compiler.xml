@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="messageDomain" />
+        <module name="comman" />
+        <module name="commentDomain" />
+        <module name="favoriteDomain" />
+        <module name="userDomain" />
+        <module name="message" />
+        <module name="relation" />
+        <module name="relationDomain" />
+        <module name="feed" />
+        <module name="publish" />
+        <module name="videoDomain" />
+        <module name="comment" />
+        <module name="api" />
+        <module name="favorite" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api (1)" target="20" />
+      <module name="api (2)" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

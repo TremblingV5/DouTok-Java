@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comman/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comman/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commentDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commentDomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/favorite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/favorite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/favoriteDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/favoriteDomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feed/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feed/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messageDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messageDomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publish/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publish/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationDomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userDomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/videoDomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/videoDomain/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
