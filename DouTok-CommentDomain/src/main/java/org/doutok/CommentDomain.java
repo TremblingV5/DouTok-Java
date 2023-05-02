@@ -4,7 +4,7 @@ package org.doutok;
  * Hello world!
  *
  */
-public class App 
+public class CommentDomain
 {
     public static void main( String[] args )
     {
